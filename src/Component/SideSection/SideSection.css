@@ -1,0 +1,17 @@
+.side-section{
+    padding: 20px;
+    text-align: center;
+ 
+}
+
+.side-section-img{
+    width: 100px;
+    margin-top: 20px;
+    animation: float 3s ease-in-out infinite;
+}
+
+
+.side-section{
+    padding: 5px;
+    margin-top: 25px; 
+}

@@ -1,0 +1,10 @@
+.about{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+.margin-left{    margin-left: 10px;}
+.margin-left li{
+    margin: 10px 0px;
+}
+.side-image{ animation: float 3s ease-in-out infinite;}

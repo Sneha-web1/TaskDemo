@@ -1,0 +1,26 @@
+.custom-footer h5 {
+  font-size: 1.2rem;
+  color: #fff;
+}
+.logoFooter {
+  width: 25%;
+}
+.logo-footer {
+  max-width: 120px;
+  height: auto;
+}
+.footer-description {
+  font-size: 17px;
+  line-height: 1.6;
+  color: #fff;
+}
+.footer-contact {
+  font-size: 17px;
+  margin-bottom: 20px;
+  color: #fff;
+  cursor: pointer !important;
+}
+.bgColor {
+  background-color: #000 !important;
+  color: #fff !important;
+}
